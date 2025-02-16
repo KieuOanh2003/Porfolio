@@ -8,7 +8,7 @@ Welcome! I'm a data analyst with a strong background in SQL, Power BI, and stati
 - Data Mining & Statistics: Applying statistical techniques to uncover trends and patterns.
 - E-commerce & Marketing Analytics: Customer segmentation, sales forecasting, and campaign performance tracking.
 
-## Table of contents
+# Table of contents
 - [SQL](#SQL)
 
 # SQL
