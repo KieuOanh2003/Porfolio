@@ -15,6 +15,6 @@ Welcome! I'm a data analyst with a strong background in SQL, Power BI, and stati
 
 | 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
 |---------------|-------------|----------------------|
-| [📊 Transaction](Transaction) | SQL | Created an interactive dashboard to track sales performance and KPIs. |
+| [📊 Transaction](SQL-project/tree/main/Transaction) | SQL | Created an interactive dashboard to track sales performance and KPIs. |
 
 
