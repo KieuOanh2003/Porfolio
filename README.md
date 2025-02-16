@@ -9,4 +9,12 @@ Welcome! I'm a data analyst with a strong background in SQL, Power BI, and stati
 - E-commerce & Marketing Analytics: Customer segmentation, sales forecasting, and campaign performance tracking.
 
 ## Table of contents
-- [SQL](#SQL) 
+- [SQL](#SQL)
+
+# SQL
+
+| 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
+|---------------|-------------|----------------------|
+| [📊 Transaction](#) | SQL | Created an interactive dashboard to track sales performance and KPIs. |
+
+
