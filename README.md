@@ -10,6 +10,7 @@ Welcome! I'm a data analyst with a strong background in SQL, Power BI, and stati
 
 # Table of contents
 - [SQL](#SQL)
+- Power BI
 
 # SQL
 
