@@ -20,7 +20,7 @@ I am a highly motivated data analysis enthusiast with strong skills in SQL and P
 
 | 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
 |---------------|-------------|----------------------|
-| [📊 Transaction](https://github.com/KieuOanh2003/SQL-project/tree/main/Transaction) | SQL | Sale performance , Customer analysis , Customer segmentation with RFM and RFM transition analysis tracks how customers move between different RFM segments over time|
+| [📊 Transaction]([https://github.com/KieuOanh2003/SQL-project/tree/main/Transaction](https://github.com/KieuOanh2003/SQL-project/tree/main)) | SQL | Sale performance , Customer analysis , Customer segmentation with RFM and RFM transition analysis tracks how customers move between different RFM segments over time|
 
 # Power BI
 
