@@ -1,6 +1,10 @@
 # 📊 Oanh's Portfolio
 
-Welcome! I'm a data analyst with a strong background in SQL, Power BI, and statistical analysis, specializing in e-commerce and marketing analytics. My work focuses on turning data into actionable insights to drive business growth and optimize decision-making.
+I am a highly motivated data analysis enthusiast with strong skills in SQL and Power BI, seeking an internship opportunity to apply my analytical expertise in real-world projects. In my portfolio, you'll find several projects where I have:
+
+- **Built robust SQL queries and procedures** to extract, transform, and analyze large datasets. For instance, I developed dynamic reports that track revenue trends, customer segmentation (using RFM analysis), and product performance metrics.
+- **Leveraged Power BI to create interactive dashboards and visualizations** that communicate key business insights effectively. My dashboards cover topics such as geographical revenue breakdown, sales performance trends (daily, monthly, and yearly), and product analysis.
+- **Integrated advanced analytical techniques**, including percentile-based segmentation and window functions, to deliver actionable insights for decision-makers.
 
 ## 🔹 Skills & Expertise
 - SQL: Advanced querying, WINDOW FUNCTIONS (LAG, LEAD, PARTITION BY), PIVOT TABLE, stored procedures, and automation with CURSOR & TRIGGER.
@@ -9,13 +13,16 @@ Welcome! I'm a data analyst with a strong background in SQL, Power BI, and stati
 - E-commerce & Marketing Analytics: Customer segmentation, sales forecasting, and campaign performance tracking.
 
 # Table of contents
-- [SQL](#SQL)
+- [SQL project](#SQL)
 - Power BI
 
-# SQL
+# SQL project
 
 | 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
 |---------------|-------------|----------------------|
-| [📊 Transaction](https://github.com/KieuOanh2003/SQL-project/tree/main/Transaction) | SQL | Created an interactive dashboard to track sales performance and KPIs. |
+| [📊 Transaction](https://github.com/KieuOanh2003/SQL-project/tree/main/Transaction) | SQL | Sale performance , Customer analysis , Customer segmentation with RFM and RFM transition analysis tracks how customers move between different RFM segments over time|
 
+
+
+*I am passionate about using data to solve business problems, and I continuously seek to improve my skills and learn new technologies. I look forward to contributing my SQL and Power BI expertise to drive data-informed decision-making and support business objectives as an intern.*
 
