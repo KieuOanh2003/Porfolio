@@ -14,7 +14,7 @@ I am a highly motivated data analysis enthusiast with strong skills in SQL and P
 
 # Table of contents
 - [SQL project](#SQL)
-- [Power BI](#Power Bi)
+- [Power BI](#power-bi)
 
 # SQL project
 
@@ -23,6 +23,11 @@ I am a highly motivated data analysis enthusiast with strong skills in SQL and P
 | [📊 Transaction](https://github.com/KieuOanh2003/SQL-project/tree/main/Transaction) | SQL | Sale performance , Customer analysis , Customer segmentation with RFM and RFM transition analysis tracks how customers move between different RFM segments over time|
 
 # Power BI
+
+
+| 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
+|---------------|-------------|----------------------|
+| [Zotaro food delivery]() | Power BI | Enhance Sales and Order Analysis|
 
 *I am passionate about using data to solve business problems, and I continuously seek to improve my skills and learn new technologies. I look forward to contributing my SQL and Power BI expertise to drive data-informed decision-making and support business objectives as an intern.*
 
