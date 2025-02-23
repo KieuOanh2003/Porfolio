@@ -1,5 +1,8 @@
 # 📊 Oanh's Portfolio
 
+*Contact email : truonghoangkieuoanh2003@gmail.com*
+
+
 I am a highly motivated data analysis enthusiast with strong skills in SQL and Power BI, seeking an internship opportunity to apply my analytical expertise in real-world projects. In my portfolio, you'll find several projects where I have:
 
 - **Built robust SQL queries and procedures** to extract, transform, and analyze large datasets. For instance, I developed dynamic reports that track revenue trends, customer segmentation (using RFM analysis), and product performance metrics.
