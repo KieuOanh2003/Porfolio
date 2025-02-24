@@ -30,7 +30,8 @@ I am a highly motivated data analysis enthusiast with strong skills in SQL and P
 
 | 🔗 Project Link | 🛠️ Skills Used | 📄 Project Description |
 |---------------|-------------|----------------------|
-| [Zotaro food delivery](https://github.com/KieuOanh2003/Power-BI) | Power BI | Enhance Sales and Order Analysis|
+| [Zotaro food delivery](https://github.com/KieuOanh2003/Power-BI) | Power BI | Enhance Sales and Order Analysis , Restaurant performance|
+| [Amazon products](https://github.com/KieuOanh2003/Power-BI) | Power BI | Order performance, Geographic insights, Product & category |
 
 *I am passionate about using data to solve business problems, and I continuously seek to improve my skills and learn new technologies. I look forward to contributing my SQL and Power BI expertise to drive data-informed decision-making and support business objectives as an intern.*
 
