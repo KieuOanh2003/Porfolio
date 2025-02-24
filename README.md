@@ -10,7 +10,7 @@ I am a highly motivated data analysis enthusiast with strong skills in SQL and P
 - **Integrated advanced analytical techniques**, including percentile-based segmentation and window functions, to deliver actionable insights for decision-makers.
 
 ## 🔹 Skills & Expertise
-- SQL: Advanced querying, WINDOW FUNCTIONS (LAG, LEAD, PARTITION BY,ROW BETWEEN), PIVOT TABLE, stored procedures, and automation with CURSOR & TRIGGER.
+- SQL: Advanced querying, WINDOW FUNCTIONS (LAG, LEAD, PARTITION BY, WINDOW FRAME), PIVOT TABLE, stored procedures, and automation with CURSOR & TRIGGER.
 - Power BI: Designing interactive dashboards for data-driven storytelling.
 - Data Mining & Statistics: Applying statistical techniques to uncover trends and patterns.
 - E-commerce & Marketing Analytics: Customer segmentation, sales forecasting, and campaign performance tracking.
